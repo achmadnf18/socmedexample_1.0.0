@@ -5,8 +5,8 @@ Simple Application CRUD Social Media
     https://socmedexample.herokuapp.com/
 
 # Login Info
-    user: **achmad18nov@gmail.com**<br />
-    pass: **123456**
+    user: achmad18nov@gmail.com
+    pass: 123456
   
 # API Documentation
     https://documenter.getpostman.com/view/11403238/SzmjyEtx?version=latest <br />
